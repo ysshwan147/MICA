@@ -35,6 +35,9 @@ You can also simply run the `install.sh` script:
 git clone https://github.com/Zielon/MICA.git
 cd MICA
 ./install.sh
+
+# ImportError: libGL.so.1: cannot open shared object file: No such file or directory
+apt install libgl1-mesa-glx
 ```
 you will be asked to provide `{flame_user}` and `{flame_password}` for your FLAME account in order to access the file server.
 
