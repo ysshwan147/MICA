@@ -69,3 +69,5 @@ testing/stirling/jobs
 
 demo/arcface
 demo/output
+demo/input/*.png
+demo/input/*.jpg
